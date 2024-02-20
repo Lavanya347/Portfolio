@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Web Developer intern",
+    "organisation": "CodSoft",
+    "startDate": "Oct, 2023",
+    "endDate": "Nov, 2023",
+    "experiences": ["Worked developing frontend projects", "Learned MongoDb by projects"]
+    },
+  {
+    "role": "UI Designer",
+    "organisation": "OctaNet",
+    "startDate": "Aug, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Designed a Restaurent site using Figma", "Designed the control panel"]
+    
+  },
+  {
+    "role": "Python Intern",
+    "organisation": "CodSoft",
+    "startDate": "June, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Worked on Python Tasks",
+      "Learned about API & WebScrapping"
+      
+    ]
+    
+  }
+]

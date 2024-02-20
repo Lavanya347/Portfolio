@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Home Decor landing page",
+    "imageSrc": "projects/landingPage.jpg",
+    "description": "Crafted with HTML for structuring the content,CSS and JS,this innovative platform redefines the way you design and envision your living spaces. The home decor landing page will serve as a visually stunning and user-friendly showcase of your web development and design skills",
+    "skills": ["HTML", "CSS", "JS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Lavanya347/Home-Decors"
+  },
+  {
+    "title": "Recipe Generator",
+    "imageSrc": "projects/recipeApp.png",
+    "description": "This app dynamically generates delectable recipes by incorporating API calls to fetch and display a diverse range of recipes based on user preferences with React JS.  This project aims to provide users with a seamless and enjoyable experience in discovering new and also showcasing proficiency in React.js",
+    "skills": ["React Js","CSS"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Lavanya347/RecipeGenerator"
+  },
+  {
+    "title": "Book-Store",
+    "imageSrc": "projects/books1.jpg",
+    "description": "The MERN (MongoDB, Express.Js, React Js, Node.Js) Stack Online Bookstore is a full-stack web application to provide an intuitive platform for books data management. Leveraging the power of the MERN stack,this project delivers a scalable solution.",
+    "skills": ["Mongo","Express","React"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Lavanya347/Book-Store"
+  }
+]
